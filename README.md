@@ -1,2 +1,2 @@
 # Fullstack-Development
-Repo for all full stack development projects.
+Repository for all the full stack devlopment projects
